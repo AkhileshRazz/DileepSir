@@ -6,6 +6,6 @@ public class A001_PrintElementOfArrayByUsingForLoop {
 		for (int i = 0; i < a.length; i++) {
 			System.out.println(a[i]);
 		}
-
+ System.out.println("hello");
 	}
 }
