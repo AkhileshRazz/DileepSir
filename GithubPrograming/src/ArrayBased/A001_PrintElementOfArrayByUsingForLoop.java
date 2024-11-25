@@ -6,7 +6,11 @@ public class A001_PrintElementOfArrayByUsingForLoop {
 		for (int i = 0; i < a.length; i++) {
 			System.out.println(a[i]);
 		}
+<<<<<<< HEAD
 
 		System.out.println("Hiii");
+=======
+ System.out.println("hello");
+>>>>>>> branch 'master' of https://github.com/AkhileshRazz/DileepSir.git
 	}
 }
